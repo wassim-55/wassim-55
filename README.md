@@ -5,12 +5,7 @@
 </p>
 
 ### 🚀 About Me
-🛠 I’m currently working on: Full-stack web and IoT projects, combining frontend, backend, and cloud technologies.
-🤝 I’m looking to collaborate on: Open-source projects, AI and data-driven applications, and impactful tech-for-good initiatives.
-🙋‍♂️ I’m looking for help with: Diving deeper into machine learning workflows and building scalable backend systems.
-🌱 I’m currently learning: DevOps practices, cloud infrastructure, and sharpening my skills in AI and data science.
-💬 Ask me about: Full-stack development, real-time systems, or getting started with AI and data projects.
-⚡ Fun fact: I’m passionate about using AI and data science to solve real-world problems—and I never pass up a good hackathon!
+🛠 I’m currently working on: Full-stack web and IoT projects, combining frontend, backend, and cloud technologies.<br>🤝 I’m looking to collaborate on: Open-source projects, AI and data-driven applications, and impactful tech-for-good initiatives.<br>🙋‍♂️ I’m looking for help with: Diving deeper into machine learning workflows and building scalable backend systems.<br>🌱 I’m currently learning: DevOps practices, cloud infrastructure, and sharpening my skills in AI and data science.<br>💬 Ask me about: Full-stack development, real-time systems, or getting started with AI and data projects.<br>⚡ Fun fact: I’m passionate about using AI and data science to solve real-world problems—and I never pass up a good hackathon!
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/wassim-chahed/)**
 
 ## 🧑‍💻 Profile Views:
