@@ -44,8 +44,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wassim-55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -58,6 +56,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wassim-55&icon=0&color=11)](https://visitcount.itsvg.in)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌎 Connect with Me
 <p align="center">
